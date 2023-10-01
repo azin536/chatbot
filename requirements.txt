@@ -1,0 +1,4 @@
+tensorflow==2.14.0
+keras==2.14.0
+pickle
+nltk==3.8.1
